@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <theme-color content="#800f2f" />
     
-    <!-- Título y descripción que aparecerán en la búsqueda de Google -->
     <title>Generador de Exámenes y Organizador Educativo | Rosa Francés</title>
     <meta name="description" content="Crea exámenes automáticamente a partir de textos, documentos y vídeos. Organiza tu contenido por cursos, trimestres y temas." />
     <meta name="keywords" content="generador de examenes, crear examen online, test estudio, estudiar oposiciones, rosa frances" />
